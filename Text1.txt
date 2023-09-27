@@ -1,0 +1,5 @@
+To-do
+1.Study git/github
+2.Revise python
+3.Revise Linux
+4.CI/CD
